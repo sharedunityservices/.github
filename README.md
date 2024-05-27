@@ -1,6 +1,6 @@
 # Unity Shared Services
 
-![Unity Shared Services](https://avatars.githubusercontent.com/u/170880604)
+![Unity Shared Services](https://avatars.githubusercontent.com/u/170880604?s=200&v=4)
 
 **A collection of Shared Unity Services formatted using a simple IService interface**
 
